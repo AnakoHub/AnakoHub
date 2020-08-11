@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+I'm a computer science student with a specialization in cybersecurity.
+My main interest are in programmation, robotic and domotisation projects.
 
 <!--
 **AnakoHub/AnakoHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
