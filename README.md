@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-I'm a computer science student with a specialization in cybersecurity.
+I'm a computer engineering student with a specialization in cybersecurity.
 My main interest are in programmation, robotic and domotisation projects.
 
 <!--
